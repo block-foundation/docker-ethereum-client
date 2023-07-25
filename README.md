@@ -3,7 +3,7 @@
 
 <div align="right">
 
-![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
+![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Pulls&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral) ![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/ethereum-client/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Docker%20Size&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fblockfoundation%2Fethereum-client%2Fgeneral)
   [![license](https://img.shields.io/github/license/block-foundation/docker-ethereum-client?color=green&label=license&style=flat-square)](LICENSE.md)
   ![stars](https://img.shields.io/github/stars/block-foundation/docker-ethereum-client?color=blue&label=stars&style=flat-square)
 
