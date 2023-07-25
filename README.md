@@ -35,6 +35,10 @@ This project embodies our dedication to transparency, collaborative innovation, 
 
 Thank you for joining the Block Foundation community. Your participation fuels our journey towards revolutionizing the architecture and real-estate industry through the power of blockchain technology. Together, we can build a future that's more sustainable, inclusive, and forward-thinking.
 
+## Resources
+
+- https://eth-docker.net/
+- https://hub.docker.com/r/ethereum/client-go/dockerfile
 
 ## Development
 
